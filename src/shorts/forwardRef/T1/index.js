@@ -1,3 +1,7 @@
+/*
+We can create a reference from parent to child using forwardRef.
+*/
+
 import React, { useRef, forwardRef } from "react";
 
 /*
